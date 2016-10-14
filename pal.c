@@ -2,6 +2,15 @@
 #include <stdlib.h>
 #include <string.h>
 
+/*
+ *helpful note for messing with strings.  mod % 10 it.  the
+ * remainder is the next letter.  letters are represented
+ * as numbers in an address somewhere.  so you can add to them.
+ * printf(" the letter a number value is %d\n", 'a');
+ */
+
+
+
 int main(int argc, char *argv[])
 {
     
